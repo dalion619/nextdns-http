@@ -1,0 +1,24 @@
+@key = USE YOUR API KEY HERE
+###
+GET https://api.nextdns.io/profiles
+X-API-KEY:{{key}}
+###
+GET https://api.nextdns.io/profiles/5966a6
+X-API-KEY:{{key}}
+###
+GET https://api.nextdns.io/profiles/5966a6/denylist
+X-API-KEY:{{key}}
+###
+PATCH https://api.nextdns.io/profiles/5966a6/denylist/betwayafrica.com
+X-API-KEY:{{key}}
+Content-Type: application/json
+{"active": true }
+###
+POST https://api.nextdns.io/profiles/5966a6/denylist
+X-API-KEY:{{key}}
+Content-Type: application/json
+{"id":"betwayafrica.com","active": true }
+###
+DELETE https://api.nextdns.io/profiles/5966a6/denylist/betwayafrica.com
+X-API-KEY:{{key}}
+Content-Type: application/json

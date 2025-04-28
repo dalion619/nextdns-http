@@ -1,0 +1,79 @@
+{
+    "folders": [
+        {
+            "name": "",
+            "path": ".."
+        }
+    ],
+    "settings": {
+        "remote.extensionKind": {
+            "anweber.httpbook": [
+                "workspace"
+            ],
+            "vscode.git": [
+                "workspace"
+            ],
+            "vscode.git-base": [
+                "workspace"
+            ],
+            "vscode.github": [
+                "workspace"
+            ],
+            "vscode.github-authentication": [
+                "workspace"
+            ],
+            "GitHub.vscode-pull-request-github": [
+                "workspace"
+            ],
+            "ms-vscode.remote-repositories": [
+                "workspace"
+            ],
+            "vscode.emmet": [
+                "workspace"
+            ],
+            "vscode.debug-auto-launch": [
+                "workspace"
+            ],
+            "vscode.merge-conflict": [
+                "workspace"
+            ],
+            "vscode.configuration-editing": [
+                "workspace"
+            ],
+            "vscode.typescript-language-features": [
+                "workspace"
+            ],
+            "vscode.json-language-features": [
+                "workspace"
+            ],
+            "vscode.microsoft-authentication": [
+                "workspace"
+            ],
+            "vscode.npm": [
+                "workspace"
+            ],
+            "vscode.extension-editing": [
+                "workspace"
+            ],
+            "ms-vscode.anycode": [
+                "workspace"
+            ],
+            "ms-vscode-remote.remote-wsl-recommender": [
+                "workspace"
+            ],
+            "bierner.color-info": [
+                "workspace"
+            ]
+        },
+        "omnisharp.useModernNet": false,
+        "workbench.editor.highlightModifiedTabs": true,
+        "editor.fontFamily": "'Jetbrains Mono SemiMedium', Consolas, 'Courier New', monospace",
+        "omnisharp.path": "",
+        "razor.disabled": true,
+        "omnisharp.projectLoadTimeout": 600,
+        "omnisharp.sdkIncludePrereleases": false,
+        "workbench.experimental.editSessions.enabled": true,
+        "workbench.list.smoothScrolling": true,
+        "editor.wordWrap": "on"
+    }
+}
